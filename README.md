@@ -16,6 +16,6 @@
 
 <div>IDE</div>
 <div>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255style=flat&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255style=flat&logo=Eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000style=flat&logo=IntelliJ&logoColor=white"/>
 </div>
