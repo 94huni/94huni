@@ -21,3 +21,10 @@
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> 
 </div>
+
+<div> other skills </div>
+<div>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Adobe Illustrator-31A8FF?style=flat&logo=Adobe Illustrator&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Adobe After Effects-31A8FF?style=flat&logo=Adobe After Effects&logoColor=white"/> 
+</div>
